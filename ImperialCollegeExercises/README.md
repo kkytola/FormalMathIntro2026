@@ -1,4 +1,4 @@
-# Imperial College London exercise sheets by Kevin Buzzard and Bhavik Mehta
+# Exercise sheets by Kevin Buzzard and Bhavik Mehta
 
 This folder contains the exercise sheets of the 2026 Imperial College London
 course *Formalising mathematics*, bumped to the Lean and Mathlib version v4.34.0-rc2
