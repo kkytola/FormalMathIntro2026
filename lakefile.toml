@@ -1,6 +1,12 @@
 name = "FormalMathCourseRepo2026"
 defaultTargets = ["ImperialCollegeExercises", "ProblemSets", "Demo"]
 
+[leanOptions]
+pp.unicode.fun = true
+autoImplicit = false
+relaxedAutoImplicit = false
+weak.linter.style.longLine = true
+
 # One Lean and one Mathlib for the whole course. The toolchain is in
 # `lean-toolchain`; `lake-manifest.json` pins Mathlib's own dependencies.
 [[require]]
